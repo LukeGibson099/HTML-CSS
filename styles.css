@@ -1,0 +1,175 @@
+.greeting {
+    padding-top: 50px;
+    margin: 50px auto 0 auto;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    color: #54BAB9;
+    font-family: 'DM Sans', sans-serif;
+}
+
+hr {
+    width: 75%;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Rock Salt', cursive;
+    font-size: 400%;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 250%;
+    font-family: 'Rock Salt', cursive;
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+.intro {
+    font-size: 2.5rem;
+    font-family: 'DM Sans', sans-serif;
+}
+
+h3 {
+    color: #11999E;
+}
+
+p {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1.2rem;
+    
+    
+}
+
+.intro-paragraph{
+    width:60%;
+    margin:auto;
+}
+.skills{
+    margin:100px auto 100px auto;
+    
+}
+.skill-row{
+    width:75%;
+    margin: 100px auto 100px auto;
+    text-align:left;
+    line-height:2
+}
+
+.top-container {
+    background-color: #F7ECDE;
+    position: relative;
+    padding-top: 100px;
+    box-align: center;
+}
+
+.thick-line {
+    margin: auto;
+    position: relative;
+    bottom: 3px;
+    border-width: 2px;
+}
+
+.middle-container {
+
+    background-color: #f4f4ea;
+    height: auto;
+    width: auto;
+    padding-bottom: 200px;
+}
+
+
+.html-icons{
+    float:left;
+    width:70%;
+    padding-right:20px;
+    
+}
+.html-pic-box{
+    float:left;
+    display:inline-block;
+    width:400.925px;
+    height:250.925px;
+    
+}
+.crediting{
+    position:relative;
+    width: 2000px;
+    left: -370px;
+    bottom: -290px;
+    margin:auto;
+    display:inline;
+}
+
+
+.recording-pic-box{
+    float:left;
+    display:inline-block;
+    width:400.925px;
+    height:250.925px;
+}
+.recording-icons{
+    float:left;
+    width:70%;
+    padding-right:20px;
+}
+.crediting-recording{
+    position:relative;
+    width: 2000px;
+    left: -380px;
+    bottom: -250px;
+    margin:auto;
+    display:inline;
+}
+
+
+.customer-pic-box{
+    float:left;
+    display:inline-block;
+    width:400.925px;
+    height:340.925px;
+}
+.customer-icons{
+    float:left;
+    width:70%;
+    padding-top:30px;
+    padding-right:10px;
+}
+.crediting-customer{
+    position:relative;
+    width: 2000px;
+    left: -360px;
+    bottom: -320px;
+    margin:auto;
+    display:inline;
+}
+
+.contact-me-paragraph {
+    text-align: center;
+    margin: auto;
+    width:60%;
+}
+
+
+.bottom-container {
+    background-color: #F7ECDE;
+    height: auto;
+    width: auto;
+    box-align: center;
+    color: #11999E;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
